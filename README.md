@@ -8,12 +8,12 @@ Using the completed stylesheet and copy included in the index.html file, mark-up
 
 You will be required to use the Font Awesome library to implement the icons in the lower section of the page. The CSS has been linked for you, so adding an icon is as easy as assigning the class "fa" and the specific icon class, e.g. fa-instagram, to an element. The specific classes we used are:
 
-fa-area-chart
-fa-bar-chart
-fa-pie-chart
-fa-signal
-fa-th
-fa-line-chart
+- fa-area-chart
+- fa-bar-chart
+- fa-pie-chart
+- fa-signal
+- fa-th
+- fa-line-chart
 
 More information can be found here: 
 https://fortawesome.github.io/Font-Awesome/

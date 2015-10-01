@@ -24,6 +24,9 @@ https://fortawesome.github.io/Font-Awesome/
 
 ![Layout](layout.jpg)
 
-# Grading
+## Grading
 
-Your code will be graded on whether it is functional, runs efficiently, and is written consistently with the rest of the code base.
+Your code will be graded based on the following criteria: 
+- Is it functional?
+- Is it efficient use of code?
+- Is it written consistently with the rest of the code base?
